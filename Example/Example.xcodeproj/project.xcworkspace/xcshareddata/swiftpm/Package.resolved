@@ -1,0 +1,15 @@
+{
+  "originHash" : "d6186871d5138616f0a3fbc89e7191edd6db1cbdbf397bc9ff490ba07db16da1",
+  "pins" : [
+    {
+      "identity" : "swiftui-flow-layout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/globulus/swiftui-flow-layout",
+      "state" : {
+        "revision" : "de7da3440c3b87ba94adfa98c698828d7746a76d",
+        "version" : "1.0.5"
+      }
+    }
+  ],
+  "version" : 3
+}
